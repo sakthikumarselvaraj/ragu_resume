@@ -1,0 +1,15 @@
+#header{
+  width: auto;
+  height: 10em;
+  background-color: cadetblue;
+
+}
+#image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 50px;
+  margin-top: 10px;
+  
+}
+
